@@ -62,10 +62,9 @@
             // picReiniciar
             // 
             this.picReiniciar.Image = global::Gatito.Properties.Resources.Reiniciar;
-            this.picReiniciar.Location = new System.Drawing.Point(76, 345);
+            this.picReiniciar.Location = new System.Drawing.Point(60, 345);
             this.picReiniciar.Name = "picReiniciar";
-            this.picReiniciar.Size = new System.Drawing.Size(194, 68);
-            this.picReiniciar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picReiniciar.Size = new System.Drawing.Size(219, 68);
             this.picReiniciar.TabIndex = 2;
             this.picReiniciar.TabStop = false;
             this.picReiniciar.Click += new System.EventHandler(this.picReiniciar_Click);
